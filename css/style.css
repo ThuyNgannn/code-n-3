@@ -1,0 +1,20 @@
+.header {
+    height: 60px;
+    background-color: rgb(214, 167, 85);
+}
+
+h6 {
+    font-size: 12px;
+}
+
+h4 {
+    font-size: 13px;
+    color: red;
+    margin-left: 40px;
+}
+
+h5 {
+    font-size: 16px;
+    margin-top: 6px;
+    margin-left: 40px;
+}
